@@ -1,0 +1,7 @@
+---
+Language: Cpp
+BasedOnStyle: Google
+AllowShortBlocksOnASingleLine: Empty
+AllowShortFunctionsOnASingleLine: Empty
+BreakConstructorInitializers: BeforeComma
+PackConstructorInitializers: Never
